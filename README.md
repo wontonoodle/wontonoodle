@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wontonoodle
-- 👀 I’m interested in making my job more efficient through technology.
+- 👀 I’m interested in making my job more efficiently through technology.
 - 🌱 I’m currently learning data science through UT Austin.
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me NA
