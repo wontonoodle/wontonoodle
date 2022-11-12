@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wontonoodle
-- 👀 I’m interested in making my job more efficiently through technology.
+- 👀 I’m interested in applying machine learning to manufacturing.
 - 🌱 I’m currently learning data science through UT Austin.
 
 <!---
